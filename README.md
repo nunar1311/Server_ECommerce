@@ -1,0 +1,30 @@
+PORT = 8000
+
+ORIGIN = ['http://localhost:3000/']
+
+NODE_ENV = development
+
+//connect to MongoDB URL
+dbURL =
+
+//Connect to Cloudinary
+CLOUD_NAME = 
+CLOUD_API_KEY = 
+CLOUD_SECRET_KEY = 
+
+//Connect to Redis URL
+REDIS_URL =
+
+ACTIVATION_SECRET = 
+
+ACCESS_TOKEN = 
+REFRESH_TOKEN = 
+
+ACCESS_TOKEN_EXPIRE = 5
+REFRESH_TOKEN_EXPIRE = 3
+
+SMTP_HOST =
+SMTP_PORT = 
+SMTP_SERVICE = 
+SMTP_MAIL = 
+SMTP_PASSWORD =
